@@ -37,7 +37,7 @@
 ---
 
 ## 📂 Project Structure
-
+```
 news-chart-bot/
 ├── backend/
 │ ├── server.js # Backend server logic
@@ -50,6 +50,7 @@ news-chart-bot/
 │ └── assets/ # Images, fonts, etc.
 ├── README.md # Project documentation
 └── .gitignore # Files to ignore in Git
+```
 
 ---
 
