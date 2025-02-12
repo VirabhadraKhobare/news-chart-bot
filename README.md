@@ -140,7 +140,6 @@ If you have any questions or suggestions, feel free to reach out:
 - GitHub: VirabhadraKhobare
 - LinkedIn: VirabhadraKhobare
 
-
 ---
 
 ### **How to Use This Template**
